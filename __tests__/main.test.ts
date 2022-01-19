@@ -2,7 +2,7 @@
 describe("Auth test", () => {
 
   test("Test", async () => {
-    expect(true).toBeTruthy();
+    expect(false).toBeTruthy();
   });
 
 })
