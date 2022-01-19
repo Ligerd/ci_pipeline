@@ -1,7 +1,7 @@
 {
   "name": "ci_pipeline",
   "version": "1.0.0",
-  "description": "Zespół w składzie: - **Aleksandr** - backend + DB - **Piotr** - **Sari**",
+  "description": "Test CI-pipelines",
   "main": "index.js",
   "scripts": {
     "test": "jest",
